@@ -11,12 +11,12 @@
 
     "icons": [
         {
-            "src": "https://firebasestorage.googleapis.com/v0/b/demoproject-5373d.appspot.com/o/1055107-128.png?alt=media&token=114c866a-c8b8-4e7e-a9f0-abfb540a4c73.png",
+            "src": "/assets/1055107-128.png",
             "sizes": "128x128",
             "type": "image/png"
         },
         {
-            "src": "https://firebasestorage.googleapis.com/v0/b/demoproject-5373d.appspot.com/o/1055107-256.png?alt=media&token=85c34b7e-01ee-4f03-90b3-4da2b3017ec2.png",
+            "src": "/assets/1055107-256.png",
             "sizes": "256x256",
             "type": "image/png"
         }
