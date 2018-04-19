@@ -8,8 +8,8 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/inline.34a57226a03bf00dbf97.bundle.js",
-        "/main.de3c26d6d8283f08d8cf.bundle.js",
+        "/inline.1798f2249c065526e34a.bundle.js",
+        "/main.dd290fbfeb9be70514eb.bundle.js",
         "/polyfills.6233469b59ce155cca70.bundle.js",
         "/styles.8df1c9804c94173006dd.bundle.css"
       ],
@@ -29,7 +29,7 @@
     {
       "name": "api-freshness",
       "patterns": [
-        "\\/new"
+        "\\/bookDetails"
       ],
       "strategy": "freshness",
       "maxSize": 100,
@@ -40,7 +40,6 @@
     {
       "name": "api-performance",
       "patterns": [
-        "\\/",
         "\\/jobs",
         "\\/show",
         "\\/ask"
@@ -52,11 +51,11 @@
     }
   ],
   "hashTable": {
-    "/inline.34a57226a03bf00dbf97.bundle.js": "be8cd62c89cd7a4f4f41dece91e0b2ce0815747b",
+    "/inline.1798f2249c065526e34a.bundle.js": "9f11a5d82672ac22c392452dd3d7ef667a68a91c",
     "/assets/star-rating.icons.svg": "c9b2ed31d6a095b618987d52defd38a28dea458c",
-    "/main.de3c26d6d8283f08d8cf.bundle.js": "1670d804b2884e2b91653de66f6cbed8b359452d",
+    "/main.dd290fbfeb9be70514eb.bundle.js": "5492e12a1cdfe50bc1dfdfc2040e71d6a63f18c4",
     "/polyfills.6233469b59ce155cca70.bundle.js": "a86fc67bcdf103ae743efa1228a409469c29bd9b",
     "/styles.8df1c9804c94173006dd.bundle.css": "742c550c060a0d01ceffe5df4418e7bb53aea53b",
-    "/index.html": "df9fcc177ada5b6c5ad5a0496107adca1ed6ea38"
+    "/index.html": "94f37a83b542ccdaab11476ca95b07557f537bcc"
   }
 }
